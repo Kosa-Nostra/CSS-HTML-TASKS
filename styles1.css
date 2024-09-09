@@ -39,8 +39,6 @@ h6{
     font-family: 'Courier New';
 }
 p {
-	width: 300px;
-	color: red;
-    font: bold /40px Arial;
+    font: italic bold 40px/60px Arial;
 }
 /*курсив жирность размер_шрифта / межстрочный_интервал семейство*/
