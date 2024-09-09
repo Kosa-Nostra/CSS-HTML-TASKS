@@ -32,4 +32,7 @@ h2{
 td{
     width: 500px;
 }
+th{
+    text-align: left;
+}
 
