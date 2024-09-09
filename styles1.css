@@ -23,6 +23,7 @@ h2{
     font-weight: normal;
 }
 p{
+    line-height: 15px;
     font-size: 30px;
 }
 h3{
