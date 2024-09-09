@@ -39,7 +39,7 @@ h6{
     font-family: 'Courier New';
 }
 p {
-    text-decoration: line-through;
+    text-decoration: none;
     text-indent: 50px;
     font: italic bold 40px/60px Arial;
 }
