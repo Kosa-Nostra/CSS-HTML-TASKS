@@ -41,4 +41,7 @@ td{
 p{
     width: 300px;
 }
+p{
+    text-align: justify;
+}
 
