@@ -39,6 +39,7 @@ h6{
     font-family: 'Courier New';
 }
 p {
+    text-indent: 50px;
     font: italic bold 40px/60px Arial;
 }
 /*курсив жирность размер_шрифта / межстрочный_интервал семейство*/
