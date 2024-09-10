@@ -1,6 +1,4 @@
-b {
-	color: red;
-}
+
 p {
 	color: blue;
 }
@@ -10,10 +8,6 @@ i {
 ul {
 	font-size: 20px;
 }
-li {
-	color: red;
-	font-weight: bold;
-}
 h3 {
 	font-size: 16px;
 }
@@ -21,12 +15,12 @@ h1, h2, h3{
     text-align: center;
     color: red;
 }
-ul li i{
-	color: red;
-}
 p i {
 	color: green;
 }
 p b i {
+	color: red;
+}
+li > b{
 	color: red;
 }
