@@ -88,4 +88,7 @@ h3.header{
 p.bbb {
 	color: red;
 }
+p .bbb {
+	color: red;
+}
 
