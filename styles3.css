@@ -73,4 +73,7 @@ h3.header{
 .eee h2 {
 	color: red;
 }
+.eee h2.bbb {
+	color: red;
+}
 
