@@ -1,7 +1,4 @@
 
-p {
-	color: blue;
-}
 i {
 	font-size: 30px;
 }
@@ -35,4 +32,13 @@ li > b{
 }
 .xxx{
 	font-size: 30px;
+}
+.krasn{
+	color: red;
+}
+.zelen{
+	color: green;
+}
+.sin{
+	color: blue;
 }
