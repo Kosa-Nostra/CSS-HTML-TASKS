@@ -91,4 +91,7 @@ p.bbb {
 p .bbb {
 	color: red;
 }
+.eee p.bbb {
+	color: red;
+}
 
