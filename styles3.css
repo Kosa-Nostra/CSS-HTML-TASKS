@@ -148,5 +148,9 @@ p .bbb {
 .eee.zzz.ccc{
 	color: greenyellow;
 }
+.bbb.zzz {
+	color: red;
+}
+/* Селектор выберет все элементы одновременно принадлежащие к классам bbb и zzz */
 
 
