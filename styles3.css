@@ -127,5 +127,11 @@ p .bbb {
 #elem3{
 	color: blue;
 }
+#block{
+	color: blueviolet;
+}
+.text{
+	font-family: 30px;
+}
 
 
