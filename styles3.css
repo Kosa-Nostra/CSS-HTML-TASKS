@@ -142,5 +142,8 @@ p .bbb {
 #elem p.text{
 	color: blueviolet;
 }
+#elem li.text{
+	color: greenyellow;
+}
 
 
