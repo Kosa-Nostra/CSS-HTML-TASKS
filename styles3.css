@@ -139,5 +139,8 @@ p .bbb {
 #elem .text{
 	color: gold;
 }
+#elem p.text{
+	color: blueviolet;
+}
 
 
