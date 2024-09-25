@@ -230,3 +230,11 @@ a:visited{
 a:active{
 	color: black;
 }
+a{
+	color: blue;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	text-decoration: underline;
+}
