@@ -273,3 +273,6 @@ li:not(li.elem){
 li:not(li:first-of-type){
 	color: blueviolet;
 }
+li:not(li:first-of-type, li:last-of-type){
+	color: brown;
+}
