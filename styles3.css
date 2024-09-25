@@ -205,3 +205,6 @@ div ~ p{
 div ~ h2{
 	color: greenyellow;
 }
+#block p{
+	color: red;
+}
