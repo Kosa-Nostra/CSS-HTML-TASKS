@@ -1,3 +1,6 @@
-h1{
-    background-color: purple;
+#elem {
+	width: 300px;
+	height: 100px;
+	color: white;
+	background-color: green; /* задаем оранжевый цвет фона */
 }
