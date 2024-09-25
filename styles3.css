@@ -238,3 +238,10 @@ a:hover{
 	color: red;
 	text-decoration: underline;
 }
+#test a {
+	color: red;
+}
+#test a:hover {
+	text-decoration: none;
+}
+/* Селектор красит все ссылку внутри id test в красный и убирает подчеркивание */
