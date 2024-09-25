@@ -252,3 +252,6 @@ a.zzz:hover {
 	text-decoration: none;
 }
 /* Селектор выберет все элементы с классом zzz */
+li:first-child{
+	color: red;
+}
