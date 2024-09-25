@@ -217,3 +217,16 @@ div ~ h2{
 .main  *  p{
 	color: red;
 }
+a:hover{
+	text-decoration: underline;
+	color: red;
+}
+a:link{
+	color: blue;
+}
+a:visited{
+	color: green;
+}
+a:active{
+	color: black;
+}
