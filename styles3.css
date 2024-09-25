@@ -189,3 +189,13 @@ h2 .zzz {
 #block h1{
 	font-size: 30px;
 }
+#block h2 {
+	color: blue;
+}
+#block h3 {
+	font-size: 16px;
+	color: red;
+}
+#block h1, #block h2, #block h3{
+	text-align: center;
+}
