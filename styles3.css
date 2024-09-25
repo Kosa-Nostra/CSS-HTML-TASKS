@@ -211,3 +211,6 @@ div ~ h2{
 .elem + li { 
 	color: red;
 }
+.elem ~ li{
+	color: red;
+}
