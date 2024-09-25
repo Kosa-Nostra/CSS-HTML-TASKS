@@ -208,3 +208,6 @@ div ~ h2{
 #block p{
 	color: red;
 }
+.elem + li { 
+	color: red;
+}
