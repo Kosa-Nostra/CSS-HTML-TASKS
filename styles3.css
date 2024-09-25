@@ -245,3 +245,10 @@ a:hover{
 	text-decoration: none;
 }
 /* Селектор красит все ссылку внутри id test в красный и убирает подчеркивание */
+a.zzz {
+	color: red;
+}
+a.zzz:hover {
+	text-decoration: none;
+}
+/* Селектор выберет все элементы с классом zzz */
