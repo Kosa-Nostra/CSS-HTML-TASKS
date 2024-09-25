@@ -202,3 +202,6 @@ h2 .zzz {
 div ~ p{
 	color: red;
 }
+div ~ h2{
+	color: greenyellow;
+}
