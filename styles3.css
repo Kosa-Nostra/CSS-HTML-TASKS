@@ -199,3 +199,6 @@ h2 .zzz {
 #block h1, #block h2, #block h3{
 	text-align: center;
 }
+div ~ p{
+	color: red;
+}
