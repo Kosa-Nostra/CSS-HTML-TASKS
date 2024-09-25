@@ -258,3 +258,6 @@ li:first-child{
 li:last-child{
 	color: green;
 }
+p:first-of-type{
+	color: red;
+}
