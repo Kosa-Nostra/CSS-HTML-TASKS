@@ -6,8 +6,8 @@
 }
 #elem {
 	border-width: 5px;
-	border-style: dashed;
-	border-color: orange;
+	border-style: ridge;
+	border-color: black;
 	width: 500px;
 	height: 250px;
 }
