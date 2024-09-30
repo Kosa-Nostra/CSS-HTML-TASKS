@@ -49,3 +49,9 @@
 	border: 1px solid green;
 	border-radius: 5px 20px 30px 20px;
 }
+#krug1 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 40px;
+}
