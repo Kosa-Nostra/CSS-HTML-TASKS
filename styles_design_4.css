@@ -67,6 +67,10 @@
 	border: 1px solid green;
 	border-radius: 50%;
 }
-body{
-	background-image: url(bg.png);
+#elem4 {
+	background-repeat: repeat-y;
+	background-image: url("bg.png");
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
 }
