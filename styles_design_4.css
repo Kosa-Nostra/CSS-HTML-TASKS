@@ -172,3 +172,14 @@ ol{
 	border: 1px solid red;
 	text-align: justify;
 }
+#elem41 {
+	padding-top:    20px; /* сверху */
+	padding-right:  10px; /* справа */
+	padding-bottom: 30px; /* снизу */
+	padding-left:   10px; /* слева */
+	
+	width: 150px;
+	height: 400px;
+	border: 1px solid red;
+	text-align: justify;
+}
