@@ -183,3 +183,14 @@ ol{
 	border: 1px solid red;
 	text-align: justify;
 }
+#elem42 {
+	padding-top:    20px; /* сверху */
+	padding-right:  20px; /* справа */
+	padding-bottom: 60px; /* снизу */
+	padding-left:   60px; /* слева */
+	
+	width: 350px;
+	height: 100px;
+	border: 1px solid red;
+	text-align: justify;
+}
