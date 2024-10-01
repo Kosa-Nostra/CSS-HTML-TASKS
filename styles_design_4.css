@@ -87,3 +87,6 @@ ul {
 ol{
 	list-style-type: lower-alpha;
 }
+#lol{
+	list-style-type: upper-alpha;
+}
