@@ -93,3 +93,15 @@ ol{
 #lowgr{
 	list-style-type: lower-greek;
 }
+#parent {
+	width: 300px;
+	height: 300px;
+	border: 1px solid blue;
+	border: dashed;
+}
+
+#child {
+	height: 200px;
+	border: 1px solid orange;
+	margin: 20px;
+}
