@@ -119,3 +119,14 @@ ol{
 	height: 100px;
 	border: 1px solid green;
 }
+#parent2 {
+	width: 300px;
+	height: 300px;
+	border: 1px solid orange;
+}
+#child2 {
+	height: 100px;
+	border: 1px solid blue;
+	border-style: dashed;
+	margin: 20px 40px 50px 10px;
+}
