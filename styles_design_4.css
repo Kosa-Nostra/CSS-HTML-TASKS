@@ -229,3 +229,31 @@ div {
 	border: 1px solid red;
 	display: inline-block;
 }
+.parent_abc {
+	border: 1px solid red;
+	width: 400px;
+	height: 400px;
+	display: block;
+}
+
+.child_a {
+	height: 100px;
+	width: 100px;
+	border: 1px solid green;
+	margin: 10px auto;
+	display: block;
+}
+.child_b {
+	height: 100px;
+	width: 200px;
+	border: 1px solid green;
+	margin: 10px auto;
+	display: block;
+}
+.child_c {
+	height: 100px;
+	width: 350px;
+	border: 1px solid green;
+	margin: 10px auto;
+	display: block;
+}
