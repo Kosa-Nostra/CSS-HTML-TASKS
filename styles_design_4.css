@@ -213,3 +213,6 @@ ol{
 	border: 10px solid green;  /* задаем границу */
 	box-sizing: border-box;  /* убираем расширение */
 }
+p {
+	display: inline;
+}
