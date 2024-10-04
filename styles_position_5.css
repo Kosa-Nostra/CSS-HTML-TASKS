@@ -1,4 +1,4 @@
-#elem1 {
+/* #elem1 { 
     position: absolute;
     top: 60px;
     left: 60px;
@@ -51,4 +51,30 @@
     height: 50px;
     color: red;
     border: 1px solid green;
+}*/
+#elem_1 {
+    position: relative;
+    left: 20px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #FF8888;
+}
+#elem_2 {
+    position: relative;
+    left: 70px;
+    top: -50px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #7E89EB;
+}
+#elem_3 {
+    position: relative;
+    left: 120px;
+    top: -100px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #4DEE99;
 }
