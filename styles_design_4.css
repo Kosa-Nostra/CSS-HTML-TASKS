@@ -351,3 +351,13 @@ p {
 	height: 50px;
 	border: 1px solid green;
 }
+.parent_8	{
+	display: flex;
+	border: 1px solid red;
+	justify-content: space-around;
+}
+.child_8 {
+	width: 150px;
+	height: 50px;
+	border: 1px solid green;
+}
