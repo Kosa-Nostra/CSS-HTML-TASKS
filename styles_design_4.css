@@ -216,13 +216,6 @@ ol{
 p {
 	display: inline;
 }
-a {
-	display: block;
-	height: 150px;
-	width: 150px;
-	border: 1px solid greenyellow;
-	border-style: ridge;
-}
 div {
 	width: 100px;
 	height: 100px;
@@ -256,4 +249,9 @@ div {
 	border: 1px solid green;
 	margin: 10px auto;
 	display: block;
+}
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+	text-align: center;
 }
