@@ -275,3 +275,14 @@ div {
 	margin: 5px;
 	text-align: center;
 }
+.pa {
+	padding: 10px 0;
+	border: 1px solid red;
+	text-align: right;
+}
+.chil {
+	padding: 10px;
+	display: inline-block;
+	text-align: right;
+	border: 1px solid green;
+}
