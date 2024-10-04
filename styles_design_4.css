@@ -311,3 +311,13 @@ p {
 	height: 50px;
 	border: 1px solid green;
 }
+.parent_4	{
+	display: inline-flex;
+	border: 1px solid red;
+	padding: 10px;
+}
+.child_4 {
+	width: 150px;
+	height: 50px;
+	border: 1px solid green;
+}
