@@ -261,3 +261,17 @@ div {
 	text-align: right;
 	padding-right: 5px;
 }
+.parent321 {
+	padding: 10px 0;
+	border: 1px solid red;
+	display: inline-block;
+	margin: 5px;
+	text-align: center;
+}
+.child32 {
+	padding: 10px;
+	display: inline-block;
+	border: 1px solid green;
+	margin: 5px;
+	text-align: center;
+}
