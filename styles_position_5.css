@@ -122,3 +122,12 @@
 	
 	border: 1px solid green;
 }
+#elem_5 {
+	position: absolute;
+	top:    100px;
+	right:  200px;
+	bottom: 50px;
+	left:   10px;
+	
+	border: 1px solid green;
+}
