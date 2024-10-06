@@ -113,3 +113,12 @@
     top: 50px;
     background-color: white; 
 }
+#elem_4 {
+	position: absolute;
+	top:    100px;
+	right:  100px;
+	bottom: 100px;
+	left:   100px;
+	
+	border: 1px solid green;
+}
