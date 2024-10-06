@@ -94,3 +94,22 @@
 	height: 100px;
 	border: 1px solid green;
 }
+#parent_2{
+    position: relative;
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: #4DEE99;
+}
+#child_2_1{
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+    background-color: white;
+}
+#child_2_2{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    background-color: white; 
+}
