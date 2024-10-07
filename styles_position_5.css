@@ -131,3 +131,24 @@
 	
 	border: 1px solid green;
 }
+#parent_3{
+    position: relative;
+    width: 350px;
+    height: 200px;
+    margin: 50px auto;
+    border: 1px solid green;
+}
+#child_3_1{
+    width: 20px;
+    height: 20px;
+    border: 1px solid red;
+    position: absolute;
+    left: -30px;
+}
+#child_3_2{
+    width: 20px;
+    height: 20px;
+    border: 1px solid red;
+    position: absolute;
+    left: 360px;
+}
