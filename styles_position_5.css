@@ -172,5 +172,36 @@
 	text-align: justify;
 	font: 16px Arial;
     border: 1px solid green;
-    
+
+}
+#elem_7 {
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	
+	width: 100px;
+	height: 100px;
+	background: #ff8888;
+    z-index: 1;
+}
+
+#elem_8 {
+	position: absolute;
+	top: 60px;
+	left: 60px;
+	
+	width: 100px;
+	height: 100px;
+	background: #7e89eb;
+    z-index: 2;
+}
+#elem_9 {
+	position: absolute;
+	top: 60px;
+	left: 60px;
+	
+	width: 100px;
+	height: 100px;
+	background: greenyellow;
+    z-index: 1;
 }
