@@ -203,3 +203,17 @@
 	height: 100px;
 	background: greenyellow;
 }
+#img {
+	width: 400px;
+	text-align: justify;
+}
+#av {
+	float: left;
+    width: 100px;
+    height: 100px;
+}
+#va {
+	float: right;
+    width: 100px;
+    height: 100px;
+}
