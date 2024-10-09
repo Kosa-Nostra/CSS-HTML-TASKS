@@ -272,3 +272,23 @@
     border: 1px solid green;
     text-align: center;
 }
+#parent222, #parent333 {
+    padding: 20px;
+    border: 1px solid black;
+}
+#child222 {
+    float: left;
+}
+#child333 {
+    float: right;
+}
+#child222, #child333{
+    width: 100px;
+    height: 50px;
+    margin: 0 10px;
+    text-align: center;
+    border: 1px solid green;
+}
+.clearfix {
+    clear: both;
+}
