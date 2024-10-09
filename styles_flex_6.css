@@ -10,3 +10,30 @@
 	height: 50px;
 	border: 1px solid green;
 }
+.parent205	{
+    display: flex;
+    flex-direction:column;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child205 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+ 
+ .parent206	{
+    display: flex;
+    flex-direction:column-reverse;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child206 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
