@@ -133,3 +133,15 @@
     width: 120px;
     border: 1px solid green;
 }
+.parent2132 {
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2132 {
+    border: 1px solid green;
+}
