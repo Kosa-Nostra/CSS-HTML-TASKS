@@ -203,3 +203,21 @@
     width: 120px;
     border: 1px solid green;
 }
+.parent2151 {
+	display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2151 {
+    height: 60px;
+    width: 120px;
+    border: 1px solid green;
+}
+.elem215 {
+    align-self: flex-end;
+}
