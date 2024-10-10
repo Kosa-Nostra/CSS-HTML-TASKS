@@ -145,3 +145,16 @@
 .child2132 {
     border: 1px solid green;
 }
+.parent2133 {
+	display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2133 {
+    height: 60px;
+    border: 1px solid green;
+}
