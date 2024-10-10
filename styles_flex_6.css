@@ -110,3 +110,13 @@
     margin: 20px auto;
     border: 1px solid red;
 }
+.parent2103 {
+	display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center; 
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
