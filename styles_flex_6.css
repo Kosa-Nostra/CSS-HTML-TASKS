@@ -384,5 +384,16 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+#parent2232 {
+	display: grid;
+	grid-template-columns: 100px 1fr 1.5fr 100px;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+}
+#parent2232 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
 
 
