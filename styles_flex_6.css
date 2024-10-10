@@ -173,3 +173,18 @@
     width: 120px;
     border: 1px solid green;
 }
+.parent2142 {
+	display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2142 {
+    height: 60px;
+    width: 120px;
+    border: 1px solid green;
+}
