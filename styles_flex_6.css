@@ -461,6 +461,17 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+#parent2271 {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, 200px);
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 800px;
+}
+#parent2271 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
 
 
 
