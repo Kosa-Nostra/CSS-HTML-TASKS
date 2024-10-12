@@ -505,5 +505,16 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+#parent2311 {
+	display: grid;
+	grid-template: 0.5fr 2fr  / 0.5fr 2fr 1fr 2.5fr;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+}
+#parent2311 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
 
 
