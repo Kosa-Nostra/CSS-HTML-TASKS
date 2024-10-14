@@ -652,5 +652,25 @@
     grid-row: 3 / 4;
 	grid-column: 1 / 4;
 }
+#parent235 {
+	display: grid;
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 400px;
+	height: 300px;
+}
+#parent235 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#elem2351 {
+	grid-column: 1 / 3;
+}
+#elem2352 {
+	grid-column: 2 / 4;
+}
+#elem2353 {
+	grid-column: 3 / 5;
+}
 
 
