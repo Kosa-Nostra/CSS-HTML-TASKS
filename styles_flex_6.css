@@ -672,5 +672,18 @@
 #elem2353 {
 	grid-column: 3 / 5;
 }
+#parent236 {
+	display: grid;
+	column-gap: 20%;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 200px;
+}
+#parent236 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
 
 
